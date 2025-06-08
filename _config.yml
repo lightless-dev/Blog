@@ -8,3 +8,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
+
+social_links:
+    - { platform: github,         user_url: "https://github.com/lightless-dev" }

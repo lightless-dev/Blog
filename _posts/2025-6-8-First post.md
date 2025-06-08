@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "My First Post"
-date:   2025-06-08 10:19:00 +0000
+title:  "First Post 👍"
+date:   2025-06-08 10:32:16 +0000
 categories: new feature
 ---
 

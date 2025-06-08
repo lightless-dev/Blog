@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Blog Home
 ---
 # lightLess: Blog
 This where developers share things and code!

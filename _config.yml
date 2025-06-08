@@ -1,3 +1,6 @@
+title: lightLess-dev-blog
+description: This where our developers talk about updates and their work in lightLess-dev
+
 remote_theme: jekyll/minima
 minima:
   skin: auto

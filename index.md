@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Test Blog
+title: Home
 ---
 # Hello, dark world!

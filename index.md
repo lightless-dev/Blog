@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+layout: home
+title: Test Blog
 ---
+# Hello, dark world!

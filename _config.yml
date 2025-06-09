@@ -1,5 +1,6 @@
 title: lightLess-dev-blog
-description: This where our developers talk about updates and their work in lightLess-dev
+description: This where our developers talk about updates and insight on their contibutions to lightLess-dev
+author: lightless-dev
 
 remote_theme: jekyll/minima
 minima:
@@ -10,4 +11,6 @@ plugins:
   - jekyll-remote-theme
 
 social_links:
-    - { platform: github,         user_url: "https://github.com/lightless-dev" }
+  - { platform: github,         user_url: "https://github.com/lightless-dev" }
+
+    favicon: favicon.png

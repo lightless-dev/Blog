@@ -14,3 +14,5 @@ social_links:
   - { platform: github, user_url: "https://github.com/lightless-dev" }
 
 favicon: favicon.png
+
+baseurl: /Blog

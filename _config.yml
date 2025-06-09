@@ -11,6 +11,6 @@ plugins:
   - jekyll-remote-theme
 
 social_links:
-  - { platform: github,         user_url: "https://github.com/lightless-dev" }
+  - { platform: github, user_url: "https://github.com/lightless-dev" }
 
-    favicon: favicon.png
+favicon: favicon.png

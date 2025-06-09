@@ -13,6 +13,6 @@ plugins:
 social_links:
   - { platform: github, user_url: "https://github.com/lightless-dev" }
 
-favicon: favicon.png
+favicon: https://lightless-dev.github.io/Blog/favicon.png
 
 baseurl: /Blog

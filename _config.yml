@@ -4,7 +4,7 @@ author: lightless-dev
 
 remote_theme: jekyll/minima
 minima:
-  skin: auto
+  skin: solarized-dark
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

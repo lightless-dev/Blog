@@ -45,3 +45,9 @@ any questions? Just talk in the disscusssion.
 </tr>
 </tbody>
 </table>
+
+
+|Developers|Role(s)|
+|---:|:---|
+|`d-445`|Admin|
+|`the-m-files`|Admin, Gameplay creator|

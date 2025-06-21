@@ -23,10 +23,7 @@ Would you like to contribute? we could use some help.
 Thanks for working with us!
 
 any questions? Just talk in the disscusssion.
-
-<details>
-
-<summary>Developers</summary>
+---
 
 # lightLess developers
 
@@ -35,16 +32,3 @@ any questions? Just talk in the disscusssion.
 |`d-445`|Admin|
 |`the-m-files`|Admin, Gameplay creator|
 ---
-If you understand
-
-```markdown
-|Developers|Role(s)|
-|---:|:---|
-|`d-445`|Admin|
-|`the-m-files`|Admin, Gameplay creator|
----
-```
-###### table from Jun 21
-
-you should contribute
-</details>

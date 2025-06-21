@@ -27,8 +27,21 @@ any questions? Just talk in the disscusssion.
 
 # lightLess developers
 
-|Developers|Role(s)|
-|---:|:---|
-|`d-445`|Admin|
-|`the-m-files`|Admin, Gameplay creator|
----
+<table>
+<thead>
+<tr>
+<th style="text-align:right">Developers</th>
+<th style="text-align:left">Role(s)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right"><code>d-445</code></td>
+<td style="text-align:left">Admin</td>
+</tr>
+<tr>
+<td style="text-align:right"><code>the-m-files</code></td>
+<td style="text-align:left">Admin, Gameplay creator</td>
+</tr>
+</tbody>
+</table>

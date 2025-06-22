@@ -4,6 +4,7 @@ title:  "Contribute to us"
 date:   2025-06-12 14:13:00 +0000
 categories: common
 comments: true
+excerpt: Simple steps to join our project. Info about our already joined developers and their contributions.
 ---
 
 # Contribute to lightLess

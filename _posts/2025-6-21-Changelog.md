@@ -25,5 +25,4 @@ Anymore contributers? please join our project. [Click to join project.](https://
 
 ---
 
-Posted by `d-445`
 

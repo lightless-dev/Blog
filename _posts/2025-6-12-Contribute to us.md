@@ -27,7 +27,7 @@ any questions? Just talk in the disscusssion.
 ---
 
 
-  # lightLess developers
+# lightLess developers
 
 
 |Developers|Role(s)|

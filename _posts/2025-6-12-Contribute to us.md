@@ -26,7 +26,11 @@ any questions? Just talk in the disscusssion.
 
 ---
 
-# lightLess developers
+<details>
+  <summary>Developers so far...</summary>
+
+
+  # lightLess developers
 
 
 |Developers|Role(s)|
@@ -37,3 +41,8 @@ any questions? Just talk in the disscusssion.
 ---
 
 table: `d-445`
+
+
+
+  
+</details>

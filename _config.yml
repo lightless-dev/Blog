@@ -1,7 +1,6 @@
 title: lightLess-dev-blog
 description: This where our developers talk about updates and insight on their contibutions to lightLess-dev
 author: lightless-dev
-  name:
 
 remote_theme: jekyll/minima
 minima:
@@ -14,9 +13,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-
-
 favicon: https://lightless-dev.github.io/Blog/favicon.png
 
 baseurl: /Blog
-

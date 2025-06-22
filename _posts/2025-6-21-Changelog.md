@@ -3,10 +3,9 @@ layout: post
 title: "lightLess Changelogs"
 date: 2025-6-21 15:56:00 +0000
 categories: Realeases
+modified_date: 2025-6-22 14:25:00 +0000
 ---
 
-
-###### Original post date: `Jun 21, 2025`
 
 ---
 

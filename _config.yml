@@ -1,21 +1,22 @@
 title: lightLess-dev-blog
 description: This where our developers talk about updates and insight on their contibutions to lightLess-dev
 author: lightless-dev
+  name:
 
 remote_theme: jekyll/minima
 minima:
   skin: solarized-dark
+  social-links: 
+    - { icon: "github", title: "Us on github", url: "https://github.com/lightless-dev" }
+  show-excerpts: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-social_links:
-  - { platform: github, user_url: "https://github.com/lightless-dev" }
+
 
 favicon: https://lightless-dev.github.io/Blog/favicon.png
 
 baseurl: /Blog
 
-author:
-  name: lightless-dev

@@ -3,11 +3,11 @@ layout: post
 title: "lightLess Changelogs"
 date: 2025-6-21 15:56:00 +0000
 categories: Realeases
-modified_date: 2025-6-22 14:25:00 +0000
+modified_date: 2025-6-22 15:47:00 +0000
+excerpt: Changelogs of lightLess. We list changes here, in lightLess changelogs.
 ---
 
 
----
 
 # Game updates
 

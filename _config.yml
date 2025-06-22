@@ -8,7 +8,7 @@ minima:
   skin: solarized-dark
   social_links: 
     - { icon: "github", title: "Us on github", url: "https://github.com/lightless-dev" }
-  show-excerpts: true
+  show_excerpts: true
 
 plugins:
   - jekyll-feed

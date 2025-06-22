@@ -30,13 +30,16 @@ any questions? Just talk in the disscusssion.
 # lightLess developers
 
 
-|Developers|Role(s)|
-|---:|:---|
-|`d-445`|Admin|
-|`the-m-files`|Admin, Gameplay creator|
+|Developers|Role(s)|Contribution|
+|---:|:---|:---|
+|`d-445`|Admin|Main website `Figure 1`|
+|`the-m-files`|Admin, Gameplay creator|Videos|
 
 ---
 
 table created by: `d-445`
+
+![Figure 1: Main website](https://github.com/user-attachments/assets/a6f64478-9a35-464a-9f13-e47172605015)
+>`Figure 1` Main website
 
 

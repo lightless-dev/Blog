@@ -3,6 +3,7 @@ layout: post
 title:  "First Post 👍"
 date:   2025-06-08 10:32:16 +0000
 categories: new feature
+author: d-455
 ---
 
 Welcome to our new blog!

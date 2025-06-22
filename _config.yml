@@ -17,5 +17,5 @@ favicon: https://lightless-dev.github.io/Blog/favicon.png
 
 baseurl: /Blog
 
- author:
-   name: lightless-dev
+author:
+  name: lightless-dev

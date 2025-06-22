@@ -5,6 +5,7 @@ date: 2025-6-21 15:56:00 +0000
 categories: Realeases
 modified_date: 2025-6-22 15:47:00 +0000
 excerpt: Changelogs of lightLess. We list changes here, in lightLess changelogs.
+author: d-445
 ---
 
 

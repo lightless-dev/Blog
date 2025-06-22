@@ -3,9 +3,7 @@ layout: post
 title:  "First Post 👍"
 date:   2025-06-08 10:32:16 +0000
 categories: new feature
-author: 
-  - d-455
-  - lightless-dev
+author: d-445
 excerpt: Welcome to our blog! this is our first post we're just checking if everything works...
 ---
 

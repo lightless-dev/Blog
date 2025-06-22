@@ -26,9 +26,6 @@ any questions? Just talk in the disscusssion.
 
 ---
 
-<details>
-  <summary>Developers so far...</summary>
-
 
   # lightLess developers
 
@@ -40,9 +37,6 @@ any questions? Just talk in the disscusssion.
 
 ---
 
-table: `d-445`
+table created by: `d-445`
 
 
-
-  
-</details>

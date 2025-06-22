@@ -3,6 +3,7 @@ layout: post
 title:  "Contribute to us"
 date:   2025-06-12 14:13:00 +0000
 categories: common
+comments: true
 ---
 
 # Contribute to lightLess

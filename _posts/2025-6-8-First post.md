@@ -5,6 +5,10 @@ date:   2025-06-08 10:32:16 +0000
 categories: new feature
 ---
 
+Welcome to our new blog!
+
+<!--more-->
+
 # Welcome to the new blog!
 
 ## developers will be working on this.

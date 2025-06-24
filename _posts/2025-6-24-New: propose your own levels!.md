@@ -4,6 +4,7 @@ title:  "Propose your own levels!"
 date:   2025-06-24 9:43:00 +0000
 categories: new
 comments: true
+author: d-445
 ---
 
 As you should know, lightLess has only like 5 levels. (And our developers are too lazy to actually make some on their own.) So, `d-445`(founder) made this new level proposal system. So you can go in, choose a slot, and start editing. next you can backup to your computer, get it to us(idk how) and we'll consider adding it in.

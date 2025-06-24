@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Propose your own levels!"
+date:   2025-06-24 9:43:00 +0000
+categories: new
+comments: true
+---
+
+As you should know, lightLess has only like 5 levels. (And our developers are too lazy to actually make some on their own.) So, `d-445`(founder) made this new level proposal system. So you can go in, choose a slot, and start editing. next you can backup to your computer, get it to us(idk how) and we'll consider adding it in.
+
+## So here's how.
+
+1. Go to the [propose editor](https://lightless-dev.github.io/Propose).
+2. Go to a slot.
+3. Press `e` on your keyboard. This opens the editor.
+> What do the sliders mean? Brush is which block you are placing, Brush size is the size.
+### Block Table
+|#|Block|Type|Description|
+|---:|:---|:---|:---|
+|2|Space|Air|Filler block. It's just air, and it's used to remove a block.|
+|3|Square|Solid|Just a box. It's harmless. but beware! don't crash the editor. spawn the player away from it or the game may crash.|
+|4|Spike|Danger|A spike. Obviously danegerous. Kills the player just by touching it.|
+|5,6,7,8|Ramps|Solid|The box, but climbable.|
+|9|Finish Flag|Entity|The end of your level, player touches level finishes.| 

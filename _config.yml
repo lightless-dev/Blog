@@ -9,6 +9,9 @@ minima:
   social_links: 
     - { icon: "github", title: "Us on github", url: "https://github.com/lightless-dev" }
   show_excerpts: true
+  nav-pages:
+    - about.md
+    - /
 
 plugins:
   - jekyll-feed

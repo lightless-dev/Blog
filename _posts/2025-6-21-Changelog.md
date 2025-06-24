@@ -3,7 +3,7 @@ layout: post
 title: "lightLess Changelogs"
 date: 2025-6-21 15:56:00 +0000
 categories: Realeases
-modified_date: 2025-6-22 15:47:00 +0000
+modified_date: 2025-6-24 11:04:00 +0000
 excerpt: Changelogs of lightLess. We list changes here, in lightLess changelogs.
 author: d-445
 ---
@@ -16,6 +16,8 @@ author: d-445
 
 # Website updates
 
+- `Jun 24, 2025:` _Level Builder_ updated. No known bugs. **Learn how to use it: [Tutorial](/Blog/new/2025/06/24/New-propose-your-own-levels!.html)**
+- `Jun 23, 2025:` Buggy _Level Builder_ realeased.
 - `Jun 21, 2025:` New _changelog_ is introduced.
 
 ---

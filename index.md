@@ -3,7 +3,6 @@ layout: home
 title: lightLess Blog Home
 ---
 
-###### [Home](/)
 
 
 # lightLess: Blog

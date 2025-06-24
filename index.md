@@ -4,11 +4,9 @@ title: lightLess Blog Home
 ---
 
 
+This is where developers share insights and code!
 
-# lightLess: Blog
-This where developers share insights and code!
-
-
+[Return home](/)
 
 ---
 

@@ -13,7 +13,8 @@ As you should know, lightLess has only like 5 levels. (And our developers are to
 1. Go to the [propose editor](https://lightless-dev.github.io/Propose).
 2. Go to a slot.
 3. Press `e` on your keyboard. This opens the editor, or closes it..
-> What do the sliders mean? Brush is which block you are placing, Brush size is the size.
+> ### What do the sliders mean?
+> Brush is which block you are placing, Brush size is the size.
 
 ### Block Table
 

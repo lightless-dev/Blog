@@ -23,9 +23,9 @@ As you should know, lightLess has only like 5 levels. (And our developers are to
 |---:|:---|:---|:---|
 |2|Space|Air|Filler block. It's just air, and it's used to remove a block.|
 |3|Square|Solid|Just a box. It's harmless. but beware! don't crash the editor. spawn the player away from it or the game may crash.|
-|4|Spike|Danger|A spike. Obviously danegerous. Kills the player just by touching it.|
-|5,6,7,8|Ramps|Solid|The box, but climbable.|
-|9|Finish Flag|Entity|The end of your level, player touches level finishes.| 
+|4|Spike|Danger|A spike. Obviously dangerous. Kills the player just by touching it.|
+|5,6,7,8|Ramps|Solid|A box, but climbable. Each ramp points in a different direction.|
+|9|Finish Flag|Entity|The end of your level, if a player touches it, the level ends.| 
 
 
 Use `WASD` to move camera in editor.

@@ -5,7 +5,7 @@ author:
 
 remote_theme: jekyll/minima
 minima:
-  skin: solarized-dark
+  skin: dark
   social_links: 
     - { icon: "github", title: "Us on github", url: "https://github.com/lightless-dev" }
   show_excerpts: true

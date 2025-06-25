@@ -12,6 +12,7 @@ author: d-445
 
 # Game updates
 
+- `Jun 25, 2025:` **BUG FIX** We fixed a _bug_ where going to the _upper bound limit_ pushes you down, _but too much._ It was a number issue. It has been fixed.
 - `Jun 21, 2025:` New menu blur optimizations. _Performance seems better in menu._
 
 # Website updates

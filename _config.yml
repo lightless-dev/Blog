@@ -11,7 +11,7 @@ minima:
   show_excerpts: true
   nav-pages:
     - about.md
-    - /
+    - backhome.md
 
 plugins:
   - jekyll-feed

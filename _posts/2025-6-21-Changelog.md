@@ -12,6 +12,7 @@ author: d-445
 
 # Game updates
 
+- `Jun 30, 2025:` Added new mobile controls. They work well, but not for tiny screens. A tablet or iPad would work well... maybe.
 - `Jun 28, 2025:` Created level 4 using level creator.
 - `Jun 25, 2025:` **BUG FIX** We fixed a _bug_ where going to the _upper bound limit_ pushes you down, _but too much._ It was a number issue. It has been fixed.
 - `Jun 21, 2025:` New menu blur optimizations. _Performance seems better in menu._

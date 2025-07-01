@@ -6,7 +6,6 @@ title: lightLess Blog Home
 
 This is where developers share insights and code!
 
-[Return home](/)
 
 ---
 

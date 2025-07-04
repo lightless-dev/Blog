@@ -13,3 +13,4 @@ plugins:
 
 baseurl: /Blog
 favicon: https://lightless-dev.github.io/Blog/favicon.png
+show_excerpts: true

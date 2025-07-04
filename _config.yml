@@ -3,7 +3,15 @@ description: This where our developers talk about updates and insight on their c
 author:
   name: lightless-dev
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+  social_links: 
+    - { icon: "github", title: "Us on github", url: "https://github.com/lightless-dev" }
+  show_excerpts: true
+  nav-pages:
+    - about.md
+    - backhome.md
 
 plugins:
   - jekyll-feed
@@ -11,6 +19,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-redirect-from
 
-baseurl: /Blog
 favicon: https://lightless-dev.github.io/Blog/favicon.png
-show_excerpts: true
+
+baseurl: /Blog

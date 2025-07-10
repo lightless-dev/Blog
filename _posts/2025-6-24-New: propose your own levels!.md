@@ -2,7 +2,7 @@
 layout: post
 title:  "Propose your own levels!"
 date:   2025-06-24 9:43:00 +0000
-modified_date: 2025-6-28 8:20:00 +0000
+modified_date: 2025-7-10 12:00:00 +0000
 categories: new
 comments: true
 author: d-445
@@ -33,7 +33,7 @@ Use `WASD` to move camera in editor.
 
 Done? hit `e`, playtest your level, and then click `SAVE SESSION EDITS(LOCAL STORAGE)`. Now your session is saved. your slots should be saved. hit this before exiting with the menu button. 
 
-To send the level to us, you should click `SAVE LEVEL AS FILE`. lightLess will ask from which slot to save from. Enter the slot number. Then send your `.liglss` file to us. You can make a pull request at our [resource page](https://github.com/lightless-dev/resource). We'll check out your level.
+To send the level to us, you should click `SAVE LEVEL AS FILE`. lightLess will ask from which slot to save from. Enter the slot number. Then send your `.liglss` by usign this [level sender.](/sendlevel) We'll check out your level.
 
 To import a level, click `IMPORT LEVEL FROM FILE`. Next, eneter what slot you want to import to, and it should be imported. Click `SAVE SESSION EDITS(LOCAL STORAGE)` to save your new import.
 

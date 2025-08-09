@@ -3,7 +3,7 @@ layout: post
 title: "lightLess Changelogs"
 date: 2025-6-21 15:56:00 +0000
 categories: Realeases
-modified_date: 2025-6-28 9:45:00 +0000
+modified_date: 2025-7-9 14:52:00 +0000
 excerpt: Changelogs of lightLess. We list changes here, in lightLess changelogs.
 author: d-445
 ---
@@ -12,6 +12,7 @@ author: d-445
 
 # Game updates
 
+- `Aug 9, 2025:`  fixed bugs, LVL 5, better readabilty of wizard.
 - `Jul 11, 2025:` Fixed a direction error. 
 - `Jun 30, 2025:` Added new mobile controls. They work well, but not for tiny screens. A tablet or iPad would work well... maybe.
 - `Jun 28, 2025:` Created level 4 using level creator.
